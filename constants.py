@@ -1,0 +1,5 @@
+CAPTION = 'My Game'
+SIZE_WIDTH = 500
+SIZE_HEIGHT = 500
+
+
